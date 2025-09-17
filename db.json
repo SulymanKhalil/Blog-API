@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "73d5",
+      "title": "The Silent Revolution: How Software Engineering is Changing Everyday Life",
+      "body": "We often think of Software Engineering as coding behind screens, but the truth is it has already blended into our daily lives. From your phone suggesting the next word, to Netflix knowing exactly what you want to watch, software is quietly shaping habits without us realizing. The next leap might not be flashy robots—it could be smarter homes, personalized healthcare, and learning apps that know your weaknesses better than your teacher ever could. The future of technology won’t just be about speed, it will be about personalization.",
+      "author": "Aisha Khan"
+    },
+    {
+      "id": "fb12",
+      "title": "When Letters Took Weeks to Arrive",
+      "body": "Imagine waiting two weeks to know if your friend received your message. That was reality before instant messaging. In old times, handwritten letters carried emotions—folded carefully, sealed, and sent across miles. The joy of receiving a letter was unmatched; people kept them for years, tied in ribbons or stored in boxes. Today, we have speed but not the same sentiment. Maybe that’s why handwritten notes still feel special—they remind us of a slower, more meaningful way of connecting.",
+      "author": "Hamza Tariq"
+    }
+  ]
+}
